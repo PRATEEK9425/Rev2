@@ -1,0 +1,23 @@
+{
+  "name": "rev2",
+  "version": "1.0.0",
+  "description": "data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRATEEK9425/Rev2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRATEEK9425/Rev2/issues"
+  },
+  "homepage": "https://github.com/PRATEEK9425/Rev2#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
